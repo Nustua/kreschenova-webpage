@@ -12,3 +12,9 @@ th {
     padding: 12px;
     text-align: center;
 }
+td {
+    background-color: lightgray;
+    padding: 8px;
+    font-family: monospace;
+    text-align: left;
+}
