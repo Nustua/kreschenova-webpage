@@ -1,6 +1,7 @@
-h1 {
-    font-family: Arial, sans-serif;
-    font-size: 28px;
-    color: darkblue;
+th {
+    background-color: darkorange;
+    color: white;
+    font-weight: bold;
+    padding: 12px;
     text-align: center;
 }
