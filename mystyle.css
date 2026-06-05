@@ -13,8 +13,9 @@ th {
     text-align: center;
 }
 td {
-    background-color: lightgray;
+    background-color: lightblue;
     padding: 8px;
+    text-align: center;
+    border: 1px solid darkblue;
     font-family: monospace;
-    text-align: left;
 }
