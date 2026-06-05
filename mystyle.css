@@ -5,3 +5,10 @@ h1 {
     text-align: right;
     text-transform: uppercase;
 }
+th {
+    background-color: darkorange;
+    color: white;
+    font-weight: bold;
+    padding: 12px;
+    text-align: center;
+}
