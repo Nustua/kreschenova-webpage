@@ -1,6 +1,7 @@
 h1 {
-    font-family: Arial, sans-serif;
-    font-size: 28px;
-    color: darkblue;
-    text-align: center;
+    font-family: 'Times New Roman', serif;
+    font-size: 32px;
+    color: green;
+    text-align: right;
+    text-transform: uppercase;
 }
