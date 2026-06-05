@@ -12,3 +12,8 @@ th {
     padding: 12px;
     text-align: center;
 }
+td {
+    background-color: lightyellow;
+    text-align: center;
+    border: 1px solid black;
+}
