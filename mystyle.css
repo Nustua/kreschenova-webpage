@@ -19,3 +19,12 @@ td {
     border: 1px solid darkblue;
     font-family: monospace;
 }
+footer a {
+    text-decoration: none;
+    color: darkred;
+}
+
+footer a:hover {
+    color: orange;
+    text-decoration: underline;
+}
